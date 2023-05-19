@@ -1,12 +1,12 @@
-###OOP Project Proposal 2021: Online Food Ordering and Delivery System
+# OOP Project Proposal 2021: Online Food Ordering and Delivery System
 
-Project Name:
+**Project Name:**
 FeastExpress: Gourmet at Your Doorstep
 
-Problem Statement:
+**Problem Statement:**
 The advent of the pandemic has revolutionized the world, necessitating social distancing and reduced physical presence. In these challenging times, the food industry has rapidly shifted towards developing online food ordering and delivery systems to ensure safety and convenience. To cater to this need, we propose building an advanced Online Food Ordering and Delivery System that enables customers to order their favorite meals from a wide range of restaurants and have them delivered to their doorstep.
 
-Main Functionalities:
+**Main Functionalities:**
 User Authentication: The system will validate users' login credentials to ensure secure access.
 Category Selection: Users can select from various food categories (e.g., Desi, Fast Food, Chinese) to explore different restaurants.
 Restaurant Selection: Users can choose their preferred restaurant from the available options within the selected category.
@@ -22,7 +22,7 @@ Chinese (Child Class)
 GitHub Description:
 Welcome to FeastExpress, a sophisticated Online Food Ordering and Delivery System developed as part of our Object-Oriented Programming (OOP) project for 2021. FeastExpress revolutionizes the way you experience gourmet meals by allowing you to order from a diverse selection of restaurants right at your doorstep.
 
-Features:
+**Features:**
 
 Seamless User Authentication ensures secure access to the system.
 Browse through various food categories and discover restaurants offering delicious options.
@@ -32,8 +32,6 @@ Get detailed billing and receipt information for your orders, ensuring transpare
 Enter a discount code to avail an exclusive 10% discount on your order.
 FeastExpress employs robust Object-Oriented Programming techniques in C, delivering a user-friendly and efficient food ordering and delivery system. Join us in the feast and elevate your dining experience!
 
-Note: FeastExpress is developed for educational purposes and is not intended for real-world commercial use.
+**Note:** FeastExpress is developed for educational purposes and is not intended for real-world commercial use.
 
-GitHub Repository: [Link to your GitHub repository where the project code and documentation can be found]
-
-Let's indulge in a world of flavors with FeastExpress - Gourmet at Your Doorstep!
+**Let's indulge in a world of flavors with FeastExpress - Gourmet at Your Doorstep!**
